@@ -1,0 +1,59 @@
+<html>
+<body style="background-color:#D1AADE;">
+
+<background style="color: #41194F"> 
+
+<h2 style="font-family: Abril Fatface"><center>H i ! I'm Jordyn Foltz, in course CSIT100, Section 29, 9/10/2023</center></h1>
+
+<center><h1 style="font-family: Abril Fatface">This Is All About Jordyn</h1></center>
+
+<Center><img src="meeicon.png" style="width:500px;height:500px;"></center>
+
+<center><h2 style="font-family: Abril Fatface">Email:  Rainydayanimations@gmail.com</h2></center>
+<hr>
+<h1 style="font-family: Abril Fatface"><center><u>Education</center></u> </h1>
+
+<Center><font size=5><p style="font-family: Vollkorn"> <b>-Southern Regional Highschool</b> 2018-2022</p></font>
+<font size=5><p style="font-family: Vollkorn"> <b>-Montclair State University 2022-2026</b> </p></font></center>
+
+<h1 style="font-family: Abril Fatface"><center><u>Hobbies & Interests</center></u> </h1>
+
+<Center><font size=5><p style="font-family: Vollkorn"> <li><b>Video Games </b></li></p></font></center>
+<Center><font size=5><p style="font-family: Vollkorn"> <li><b>Art</b></li></p></font></center>
+<Center><font size=5><p style="font-family: Vollkorn"> <li><b>The band Gorillaz</b></li></p></font>
+<Center><font size=5><p style="font-family: Vollkorn"> <li><b>Hiking</b></li></p></font>
+<Center><font size=5><p style="font-family: Vollkorn"> <li><b>Collecting blind box figures</b></li></p></font>
+<Center><font size=5><p style="font-family: Vollkorn"> <li><b>Thrifting</b></li></p></font>
+<hr>
+
+
+<h1 style="font-family: Abril Fatface"><center><u>Cool Stuff Online</center></u> </h1>
+<table>
+
+  <tr>
+  <td><font size=5><p style="font-family: Vollkorn"> <b> Links </b></p></font></td>
+  <td><font size=5><p style="font-family: Vollkorn"> <b> <a href="http://radio.garden/search">Radio Garden</a> </b></p></font></td>
+<td>
+    <td><font size=5><p style="font-family: Vollkorn"> <b> <a href="https://littlealchemy2.com/">Little Achemy 2</a> </b></p></font></td>
+<td>
+    <td><font size=5><p style="font-family: Vollkorn"> <b> <a href="https://this-person-does-not-exist.com/en">This Person Does Not Exist</a> </b></p></font></td>
+  </tr>
+
+  <tr>
+<th> <font size=5><p style="font-family: Vollkorn"> Description 
+
+    <td><font size=3><p style="font-family: Vollkorn"> <b>A website where you can listen radio</p><p><n stations throughout the world</b></p></font></td>
+<Td>
+    <td><font size=3><p style="font-family: Vollkorn"> <b> A game where you make new elements </b></p></font></td>
+<Td>
+    <td><font size=3><p style="font-family: Vollkorn"> <b>A website that generates a face of someone who does not exist in real life </b></p></font></td>
+  </tr>
+</table>
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Vollkorn&display=swap');
+</style>
+
+</html>
